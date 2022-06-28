@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: #000 underline wavy;
+    letter-spacing: 20px;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: teal;
+    background-color: plum;
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    line-height: 2;
+}
